@@ -15,6 +15,7 @@ facilement dans une page html.
 # apt-get install python3-bs4
 # pip3 install stem
 # apt-get install python3-pycurl
+# apt-get install tor
 ```
 
 # Utilisation
