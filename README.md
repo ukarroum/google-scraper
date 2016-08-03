@@ -47,3 +47,7 @@ A moins donc d'utiliser une liste de proxies privés je recommanderai Bing pour 
 Je ne l'ai pas tésté de facon intensive mais il semble marcher sans problème.
 Bing ne semble pas bloquer les requettes en provenance de TOR et offre un quota beaucoup plus important que Google.
 
+## StartPage
+
+Semble marcher sans problème peut s'averer une bonne alternative à Google.
+
